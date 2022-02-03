@@ -151,7 +151,7 @@
                                 <TableCell>
                                     <Paragraph>
                                         <Floater Width="400" HorizontalAlignment="Left">
-                                            <BlockUIContainer BorderBrush="Blue" BorderThickness="2">
+                                            <BlockUIContainer BorderBrush="#FF6969EE" BorderThickness="2">
                                                 <Image Source="Data/3.jpg"/>
                                             </BlockUIContainer>
                                         </Floater>
